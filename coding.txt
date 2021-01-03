@@ -3,3 +3,4 @@ belajar website
 - css
 - javascript
 - belajar bahasa pemrograman
+- membuat website kecil
